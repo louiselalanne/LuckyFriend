@@ -1,5 +1,5 @@
-# LuckyFriend
-Gerar um item aleatório dentro de uma lista.
+<h1 align="center"> Lucky Friend</h1>
 
-
-![20220605_152433](https://user-images.githubusercontent.com/100588945/172065023-d821210f-7df7-4d54-a0a0-262fa09b6712.gif)
+<p align="justify">O objetivo deste projeto é armazenar os nomes inseridos pelo usuário e criar uma lista. Após clicar em um botão, será gerado um índice aleatório que será correspondente a posição de um elemento da lista.</p>
+<br>
+<img src="https://user-images.githubusercontent.com/100588945/172067343-4c4a5271-fd2a-4883-805d-1c3538868778.gif">
